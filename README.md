@@ -10,5 +10,13 @@ A Java console game — guess the randomly generated number before your score hi
 
 ## 🚀 Quick Start
 
+1. Compile the game:
+   ```bash
+   javac NumberGuessGame.java
+   ```
+2. Run the game:
+   ```bash
+   java NumberGuessGame
+   ```
 
 > **Requires:** Java 8+
