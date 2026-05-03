@@ -18,5 +18,3 @@ A Java console game — guess the randomly generated number before your score hi
    ```bash
    java NumberGuessGame
    ```
-
-> **Requires:** Java 8+
